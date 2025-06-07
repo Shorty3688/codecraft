@@ -1,0 +1,11 @@
+exports[`Prompt Input renders correctly`] = `
+<div>
+  <label>
+    What would you like to build?
+  </label>
+  <textarea />
+  <button>
+    Generate Code
+  </button>
+</div>
+`;
